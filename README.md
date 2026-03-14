@@ -7,5 +7,3 @@ Hi! I’m a Full-Stack Lead who has spent over a decade in the trenches of build
 If my code, scrapers, or tools have saved you a day of debugging or a week of development, consider buying me a coffee. I'm here to share the lessons I've learned the hard way—let's keep the code clean and the bugs squashed.
 
 **[Click here to support my work on Ko-fi](https://ko-fi.com/jasocami)**
-
-![jasocami's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasocami&show_icons=true&theme=radical)
